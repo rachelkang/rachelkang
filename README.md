@@ -1,11 +1,11 @@
-### Hello world! 🌎
+## Hello world! 🌎
 
-I'm Rachel (she/her), a Product Manager @ Microsoft, currently working on [.NET MAUI](https://github.com/dotnet/maui) ✨ 
+I'm Rachel (she/her), a Product Manager @ Microsoft, currently working on Copilot in Visual Studio + Accessibility in Visual Studio  
 
-Chat with me on [Twitter](https://twitter.com/therachelkang) about mobile app dev, designing and developing inclusive apps, womxn in tech, books, food, and more!
+Find me on [LinkedIn](https://www.linkedin.com/in/rachel-j-kang/) to keep up with the latest!
 
 ___
 
-### Looking to learn more about accessibility?
+### Looking for my presentations?
 
-Check out my accessibility [blog post series](https://devblogs.microsoft.com/xamarin/author/rachelkang/) and [talks/demos](https://github.com/rachelkang/rachelkang/Talks)!
+Find links and materials for all my presentations on all things .NET, VS, and accessibility [right here](https://github.com/rachelkang/rachelkang/Talks)!
