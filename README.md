@@ -1,6 +1,6 @@
 ## Hello world! 🌎
 
-I'm Rachel (she/her), a Product Manager @ Microsoft, currently working on Copilot in Visual Studio + Accessibility in Visual Studio  
+I'm Rachel (she/her), a Product Manager @ Microsoft, currently working on Copilot in Visual Studio.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/rachel-j-kang/) to keep up with the latest!
 
